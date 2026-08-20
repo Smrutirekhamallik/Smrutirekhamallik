@@ -9,6 +9,7 @@ Skills:
 - Power BI
 - Tableau
 - Python
+- Statistics
 - Dashboard Building
 - Data Visualization
 
