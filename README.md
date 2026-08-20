@@ -20,9 +20,11 @@ Loan Portfolio and Payment Analysis Dashboard
 
 Certifications:
 
-1. Data Analytics With Business Analytics
+1. Data Analytics and Business Analytics
+   <img width="700" height="674" alt=" Data Analytics" src="https://github.com/user-attachments/assets/90551817-1b3b-4cee-bb23-ed67f3265376" />
 
-2. Deloitte Data Analytics Certificate
+
+3. Deloitte Data Analytics Certificate
    <img width="700" height="795" alt="Deloitte Data Analytics Certificate" src="https://github.com/user-attachments/assets/e00c34d7-3c57-4855-a602-7e23b73d4e6e" />
 
 
