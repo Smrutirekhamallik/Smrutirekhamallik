@@ -25,9 +25,11 @@ Certifications:
    <img width="700" height="674" alt=" Data Analytics" src="https://github.com/user-attachments/assets/90551817-1b3b-4cee-bb23-ed67f3265376" />
 
 
-3. Deloitte Data Analytics Certificate
+2. Deloitte Data Analytics Certificate
    <img width="700" height="795" alt="Deloitte Data Analytics Certificate" src="https://github.com/user-attachments/assets/e00c34d7-3c57-4855-a602-7e23b73d4e6e" />
 
+3. TATA Data Analytics Certificate
+   <img width="700" height="851" alt="GenAI Powered Data Analytic" src="https://github.com/user-attachments/assets/9103b769-7861-4c69-8e10-cd231197048b" />
 
 
 
